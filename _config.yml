@@ -1,4 +1,3 @@
-remote_theme: samanyougarg/hanuman
+theme: jekyll-theme-minimal
 title: Sarakhandh College
 description: The education of the future.
-show_downloads: false
