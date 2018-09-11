@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 theme: samanyougarg/hanuman
+=======
+
+>>>>>>> 865fc9a359e8de359057e645a154612b65a880cd
 title: Sarakhandh College
 description: The education of the future.
 show_downloads: false
 
-plugins:
-  - jekyll-remote-theme
+plugins: jekyll-remote-theme
