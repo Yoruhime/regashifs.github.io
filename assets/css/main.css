@@ -1466,6 +1466,7 @@ input, select, textarea {
 						}
 
 						#header nav ul li a {
+							width: 9rem;
 							height: 3rem;
 							line-height: 3rem;
 							min-width: 0;
